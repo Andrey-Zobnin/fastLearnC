@@ -7,8 +7,10 @@
 // <тип переменной> <имя переменной>; - синтаксис задания переменной
 
 
+
 int main() {
     char byteMemory;
+    // char - ключевое слово, byteMemory - идентификатор
     byteMemor y = 100;
     char a;
     a = byteMemory;
