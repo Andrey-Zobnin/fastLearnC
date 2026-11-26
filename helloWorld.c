@@ -11,7 +11,7 @@
 int main() {
     char byteMemory;
     // char - ключевое слово, byteMemory - идентификатор
-    byteMemor y = 100;
+    byteMemory = 100;
     char a;
     a = byteMemory;
     printf("Hello, world!\n");
